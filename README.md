@@ -2,11 +2,11 @@
 
 Projeto criado em um dos cursos de React da Alura para aprender sobre Hooks, Contextos e boas práticas. <br />
 
-Nele aprendi: <br />
+Nele: <br />
 
-- Sobre Hooks;
+- Aprendi sobre Hooks;
 - Utilizei a context API para melhorar o código;
-- Sobre técnicas de validação de dados em formulários.
+- Aprendi sobre técnicas de validação de dados em formulários.
 
 # Overview
 
