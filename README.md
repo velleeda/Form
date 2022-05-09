@@ -1,13 +1,13 @@
 # Form
 
-Projeto criado em um dos cursos de React da Alura para aprender sobre Hooks, Contextos e boas práticas. <br />
+Project created in one of Alura's React courses to learn about Hooks, Contexts and best practices. <br />
 
-Nele: <br />
+In it: <br />
 
-- Aprendi sobre Hooks;
-- Utilizei a context API para melhorar o código;
-- Aprendi sobre técnicas de validação de dados em formulários.
-
+- I learned about Hooks;
+- I used the context API to improve the code;
+- I learned about data validation techniques in forms.
+  
 # Overview
 
 ![](./public/gifs/default.gif)
@@ -20,7 +20,9 @@ $ git clone https://github.com/velleeda/Form
 
 # Go to the directory
 $ cd Form
-
+```
+  
+```
 # Install Dependencies
 $ npm install
 
